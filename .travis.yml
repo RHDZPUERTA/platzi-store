@@ -15,6 +15,7 @@ script:
   - yarn build
 
 notifications:
+  slack: rubsdevs:Takp695RMVSby1ujDRZwqZJM
   email:
     recipients:
       - ruben.hdzpuerta@gmail.com
